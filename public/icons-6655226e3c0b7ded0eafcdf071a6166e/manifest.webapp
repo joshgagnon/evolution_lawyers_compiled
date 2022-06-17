@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "evolution-lawyers-v5",
+  "description": null,
+  "icons": {
+    "60": "/icons-6655226e3c0b7ded0eafcdf071a6166e/firefox_app_60x60.png",
+    "128": "/icons-6655226e3c0b7ded0eafcdf071a6166e/firefox_app_128x128.png",
+    "512": "/icons-6655226e3c0b7ded0eafcdf071a6166e/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
